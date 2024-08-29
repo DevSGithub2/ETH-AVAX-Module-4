@@ -130,7 +130,7 @@ Refer to Remix's documentation for additional help: https://remix-ide.readthedoc
 ## Authors
 
 Dev Sagar  
-GitHub: [DevSGitub2](https://github.com/DevSGitub2)
+GitHub: [DevSGithub2](https://github.com/DevSGitub2)
 
 ## License
 
