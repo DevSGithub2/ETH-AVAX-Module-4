@@ -12,7 +12,7 @@ The DegenToken project is a smart contract built on the Ethereum blockchain usin
 
 To download and run the project:
 
-1. Clone the repository from GitHub: [DegenToken GitHub Repository](https://github.com/DevSGitub2/DegenToken.git)
+1. Clone the repository from GitHub: [DegenToken GitHub Repository](https://github.com/DevSGitub2/ETH-AVAX-Module-4.git)
 2. Navigate to the project directory.
 3. Ensure you have MetaMask installed and connected to the Ethereum network.
 
